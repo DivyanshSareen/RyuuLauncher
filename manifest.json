@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Ryuu Launcher",
-    "decription": "Quick Launch for Ryuunosuke",
+    "description": "Quick Launch for Ryuunosuke",
     "version": "1.0.0",
     "icons": {"128":"icon128.png"},
     "browser_action":{
